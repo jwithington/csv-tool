@@ -7,13 +7,10 @@ const rl = readline.createInterface({
 
 rl.question('What do you think of Node.js? ', answer => {
   // TODO: Log the answer in a database
-  const theAnswer = `${answer}`;
-  rl.close();
-  console.log(theAnswer);
-  return theAnswer;
-});
+  console.log(`Thank you for your valuable feedback: ${answer}`);
 
-// console.log(rl.theAnswer);
+  rl.close();
+});
 
 /* const csv = require('csv-parser');
 const fs = require('fs');
