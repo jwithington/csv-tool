@@ -1,0 +1,20 @@
+{
+  "name": "csv-tool",
+  "version": "1.0.0",
+  "description": "An exercise in building a command line tool.",
+  "main": "sandbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwithington/csv-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwithington/csv-tool/issues"
+  },
+  "homepage": "https://github.com/jwithington/csv-tool#readme"
+}
