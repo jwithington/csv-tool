@@ -11,10 +11,13 @@
     "url": "git+https://github.com/jwithington/csv-tool.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jim Withington <jamesrwithington@gmail.com> (https://www.jwithy.com/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jwithington/csv-tool/issues"
   },
-  "homepage": "https://github.com/jwithington/csv-tool#readme"
+  "homepage": "https://github.com/jwithington/csv-tool#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.2"
+  }
 }
